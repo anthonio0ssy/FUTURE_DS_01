@@ -29,4 +29,4 @@ The dashboard includes the following key insights:
 ## ✨ Author
 Created by [Anthonio Osmond Selorm]  
 📧 [anthonioosmond@gmail.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/[yourprofile](https://www.linkedin.com/in/osmondanthonio)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/osmondanthonio)
