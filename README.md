@@ -17,8 +17,8 @@ The dashboard includes the following key insights:
 - Monthly sales trends
 - Average shipping duration
 - Profit margin
-
----
+- Monthly Profit Trends
+- Profit trends by region
 
 
 
